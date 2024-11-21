@@ -1,0 +1,1 @@
+C# is a versatile, modern, object-oriented programming language developed by Microsoft. It is widely used for building a variety of applications, including desktop software, web applications, mobile apps, games, and more.
